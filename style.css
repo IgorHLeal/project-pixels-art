@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+  }
+  
+  h1 , #color-palette , #pixel-board {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .color {
+    border: solid black 1px;
+    width: 40px;
+    height: 40px;
+  }
+  
+  button {
+   margin-left: 47%;
+   margin-top: 15px;
+  }
+  
+  
+  #black {
+    background-color: black;
+    display: inline-block;
+  }
+  
+  #green {
+    background-color: green;
+    display: inline-block;
+  }
+  
+  #gray {
+    background-color: gray;
+    display: inline-block;
+  }
+  
+  #blue {
+    background-color: blue;
+    display: inline-block;
+  }
+  
+  .pixel {
+    display: inline-block;
+    background-color: white;
+    border: solid black 1px;
+    width: 40px;
+    height: 40px;
+  }
+  
