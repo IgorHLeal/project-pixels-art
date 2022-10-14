@@ -5,4 +5,7 @@ O projeto foi iniciado ao final do Bloco 05 do Módulo de Fundamentos do Desenvo
 
 As linguagens utilizadas foram HTML e CSS para posicionamento e estilização dos elementos e JavaScript para a interação do usuário.
 
+[Clique aqui](https://igorhleal.github.io/project-pixels-art/) e acesse a aplicação em seu navegador.
+
+
 ![Página](images/image2.png)
